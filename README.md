@@ -1,1 +1,1 @@
-# Python Parctice
+# Python Practice
